@@ -2,7 +2,7 @@
 This repository contains different activities about ML like algorithms, models, examples and topics related about this.
 
 ## Instalation
-_______________________________________
+
 In this repository are used different tools to build and create the whole scripts. You can do to install these using **pip3** (for *`Python 3.7.x`*)  Some of these tools are:
 - Numpy: **pip3 install numpy**
 - Pandas: **pip3 install pandas**
@@ -11,7 +11,7 @@ In this repository are used different tools to build and create the whole script
 - IPython: **pip3 install ipython**
 
 ## Excercises
-_______________________________________
+
 ## Excercise 01: *Titanic survival exploration*
 **Description**
 - In this practice project, I start to create decision **functions that attempt to predict survival outcomes from the 1912 Titanic disaster based on each passenger’s features**, such as sex and age. Starting with a simple algorithm and increase its complexity until you are able to accurately predict the outcomes for at least 80% of the passengers in the provided data.
