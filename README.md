@@ -1,7 +1,7 @@
 # Machine-Learning-course
 This repository contains different activities about ML like algorithms, models, examples and topics related about this.
 
-## Instalation
+## Installation
 
 In this repository are used different tools to build and create the whole scripts. You can do to install these using **pip3** (for *`Python 3.7.x`*)  Some of these tools are:
 - Numpy: **pip3 install numpy**
