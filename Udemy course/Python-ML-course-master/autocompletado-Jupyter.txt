@@ -1,0 +1,10 @@
+%config IPCompleter.greedy=True
+===============================
+Si algún fichero del curso no te carga a pesar de que escribas bien la ruta, podría ser que estés en Windows, donde hay que tener en cuenta lo siguiente:
+
+Cuando en Windows queremos utilizar una instrucción como por ejemplo: pandas.read_cvs("C:\user\titanic3.cvs") 
+se debe hacer con las barras "/" y no con "\".
+
+Alternativamente, lo otro que podemos hacer es colocar un "r" antes de la ruta de la siguiente forma: 
+pandas.read_cvs(r"C:\user\titanic3.cvs") 
+y asi no tenemos que cambiar las "\".
